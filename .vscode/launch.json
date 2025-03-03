@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bleckwolf25/Downloads/Work/Programming/C++/Learn-cpp/FirstCppApp",
+      "program": "/Users/bleckwolf25/Downloads/Work/Programming/C++/Learn-cpp/FirstCppApp/build/Debug/outDebug"
+    }
+  ]
+}
