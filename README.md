@@ -38,7 +38,7 @@ To ensure a smooth learning experience, follow the lessons in this order:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/BleckWolf25/.git
+   git clone https://github.com/BleckWolf25/Learn-cpp.git
    ```
 
 2. Install a C++ compiler (e.g., GCC or Clang) and an IDE or text editor like Visual Studio Code (VSCode project files are included in each lesson).
