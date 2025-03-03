@@ -1,4 +1,4 @@
-# LEARN-CPP
+# 
 
 Welcome to **LEARN-CPP**, a beginner-friendly repository designed to teach the fundamentals of C++ programming. This repository is ideal for those new to programming or C++ and serves as a stepping stone to understanding essential concepts. If you don’t master these fundamentals, you won’t be ready to go to advanced topics or more complex programming paradigms.
 
@@ -38,7 +38,7 @@ To ensure a smooth learning experience, follow the lessons in this order:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/BleckWolf25/LEARN-CPP.git
+   git clone https://github.com/BleckWolf25/.git
    ```
 
 2. Install a C++ compiler (e.g., GCC or Clang) and an IDE or text editor like Visual Studio Code (VSCode project files are included in each lesson).
